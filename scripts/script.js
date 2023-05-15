@@ -10,74 +10,74 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/1.mp3",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          name: "SPECVLVM VRENS",
+          artist: "MISTA MAGU",
+          cover: "https://images.squarespace-cdn.com/content/v1/5445d1f8e4b0fd2c9e12bb2d/1683249671145-11X9AWOXBT5S1EO41RFO/tv_ratings_256.png",
+          source: "https://static1.squarespace.com/static/5445d1f8e4b0fd2c9e12bb2d/60ce12aa76779764700d0d35/61118a0aa48b5e580e96b19a/1656069748929/%2716+Nic+Vor.mp3",
+          url: "https://www.youtube.com/watch?v=sE4HixW2D3A",
           favorited: false
         },
         {
-          name: "Everybody Knows",
-          artist: "Leonard Cohen",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/2.mp3",
-          url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
+          name: "VINO TAPATIAS",
+          artist: "MISTA MAGU",
+          cover: "https://images.squarespace-cdn.com/content/v1/5445d1f8e4b0fd2c9e12bb2d/1683249671145-11X9AWOXBT5S1EO41RFO/tv_ratings_256.png",
+          source: "https://static1.squarespace.com/static/5445d1f8e4b0fd2c9e12bb2d/60ce12aa76779764700d0d35/60ce133c9f12ce39da677ed3/1628420846786/Vino+Tapatia.mp3",
+          url: "https://www.youtube.com/watch?v=SftaN_q3Saw",
+          favorited: false
+        },
+        {
+          name: "03",
+          artist: "MISTA MAGU",
+          cover: "https://images.squarespace-cdn.com/content/v1/5445d1f8e4b0fd2c9e12bb2d/1683249671145-11X9AWOXBT5S1EO41RFO/tv_ratings_256.png",
+          source: "https://static1.squarespace.com/static/5445d1f8e4b0fd2c9e12bb2d/60ce12aa76779764700d0d35/60ce13582a1ec1090d275794/1635583890408/Bailey+Jane+%28stripped%29.mp3",
+          url: "https://www.youtube.com/watch?v=SftaN_q3Saw",
           favorited: true
         },
         {
-          name: "Extreme Ways",
-          artist: "Moby",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/3.mp3",
-          url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
-          favorited: false
-        },
-        {
-          name: "Butterflies",
-          artist: "Sia",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/4.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/4.mp3",
+          name: "04",
+          artist: "MISTA_MAGU",
+          cover: "https://images.squarespace-cdn.com/content/v1/5445d1f8e4b0fd2c9e12bb2d/1683249671145-11X9AWOXBT5S1EO41RFO/tv_ratings_256.png",
+          source: "https://static1.squarespace.com/static/5445d1f8e4b0fd2c9e12bb2d/60ce12aa76779764700d0d35/60ce1469973a5f58939f484b/1628420911133/fufufufu.m4a",
           url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
           favorited: false
         },
         {
-          name: "The Final Victory",
-          artist: "Haggard",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/5.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/5.mp3",
+          name: "05",
+          artist: "MISTA MAGU",
+          cover: "https://images.squarespace-cdn.com/content/v1/5445d1f8e4b0fd2c9e12bb2d/1683249671145-11X9AWOXBT5S1EO41RFO/tv_ratings_256.png",
+          source: "https://static1.squarespace.com/static/5445d1f8e4b0fd2c9e12bb2d/60ce12aa76779764700d0d35/60ce13d1efd30f5bde7ec8fc/1628420969063/Rachael+McLoughlin+.m4a",
           url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
-          favorited: true
+          favorited: false
         },
         {
-          name: "Genius ft. Sia, Diplo, Labrinth",
-          artist: "LSD",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/6.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/6.mp3",
+          name: "06",
+          artist: "MISTA MAGU",
+          cover: "https://images.squarespace-cdn.com/content/v1/5445d1f8e4b0fd2c9e12bb2d/1644582508249-LDXLVV3ID8A3IQ1BTRUS/011722+Game+Format+w+droid+transmission+.png",
+          source: "https://static1.squarespace.com/static/5445d1f8e4b0fd2c9e12bb2d/60ce12aa76779764700d0d35/60ce2279cde909003d1f169c/1628420936338/sherri+mono+bass.m4a",
           url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
           favorited: false
         },
         {
-          name: "The Comeback Kid",
-          artist: "Lindi Ortega",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/7.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/7.mp3",
+          name: "07",
+          artist: "MISTA MAGU",
+          cover: "https://images.squarespace-cdn.com/content/v1/5445d1f8e4b0fd2c9e12bb2d/1683249671145-11X9AWOXBT5S1EO41RFO/tv_ratings_256.png",
+          source: "https://static1.squarespace.com/static/5445d1f8e4b0fd2c9e12bb2d/60ce12aa76779764700d0d35/60ce1469973a5f58939f484b/1628420911133/fufufufu.m4a",
           url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
-          favorited: true
+          favorited: false
         },
         {
-          name: "Overdose",
-          artist: "Grandson",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
+          name: "08",
+          artist: "MISTA MAGU",
+          cover: "https://images.squarespace-cdn.com/content/v1/5445d1f8e4b0fd2c9e12bb2d/1683249671145-11X9AWOXBT5S1EO41RFO/tv_ratings_256.png",
+          source: "https://static1.squarespace.com/static/5445d1f8e4b0fd2c9e12bb2d/60ce12aa76779764700d0d35/60ce136010e44051672f37b7/1628420867282/Rain+Dancefinal.mp3",
           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
           favorited: false
         },
         {
-          name: "Rag'n'Bone Man",
-          artist: "Human",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/9.mp3",
+          name: "09",
+          artist: "MISTA MAGU",
+          cover: "https://images.squarespace-cdn.com/content/v1/5445d1f8e4b0fd2c9e12bb2d/1683249671145-11X9AWOXBT5S1EO41RFO/tv_ratings_256.png",
+          source: "https://static1.squarespace.com/static/5445d1f8e4b0fd2c9e12bb2d/60ce12aa76779764700d0d35/60ce22c884df6c45411a2f03/1628420942138/Bustin+Geeber+Instr..m4a",
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
         }
